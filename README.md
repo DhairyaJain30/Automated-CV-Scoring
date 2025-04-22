@@ -17,14 +17,17 @@ It helps recruiters **efficiently evaluate applicants**, and provides candidates
   - Relevant AI Skills (20%)
 - ✅ **Automated Email Feedback** to candidates with detailed score breakdown  
  
-## How to run 
-1. Clone the repository
-   git clone https://github.com/DhairyaJain30/Automated-CV-Scoring.git
-   cd Automated-CV-Scoring
-   
-2.Download Requirements
-  pip install -r requirements.txt
+## How to Run
 
-3.Run main function 
-  python main.py
+```bash
+# 1. Clone the repository
+git clone https://github.com/DhairyaJain30/Automated-CV-Scoring.git
+cd Automated-CV-Scoring
+
+# 2. Download Requirements
+pip install -r requirements.txt
+python -m spacy download en_core_web_md
+
+# 3. Run main function
+python main.py
 
