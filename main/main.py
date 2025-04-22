@@ -28,6 +28,13 @@ def run_pipeline(resume_path, jd_text):
 
 
 if __name__ == "__main__":
-    resume_path = "D:\Imp Docs College\Resume\Resume_Dhairya_Jain.pdf"
-    jd_text = open("C:\Coding\AI Resume Scorer\jd.txt").read()
-    run_pipeline(resume_path, jd_text)
+    # Input for resume path 
+    resume_path = input("Enter the path to your resume: ")
+
+    # Input for job description file path (txt format)
+    jd_path = input("Enter the path to the job description file: ")
+
+    # Read the job description text
+    with open(jd_path, 'r', encoding='utf-8') as f:
+        jd_text = f.read()
+
