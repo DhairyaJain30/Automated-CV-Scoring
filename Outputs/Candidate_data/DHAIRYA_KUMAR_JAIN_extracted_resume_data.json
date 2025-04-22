@@ -1,0 +1,20 @@
+{
+    "name": "DHAIRYA KUMAR JAIN",
+    "phone": "91 9424734133",
+    "email": "dhairyajain30904@gmail.com",
+    "experience": null,
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Transformer",
+        "Flask",
+        "TensorFlow",
+        "Communication",
+        "Deep Learning",
+        "Management"
+    ],
+    "Education": [
+        "B.Tech - Computer Science and Engineering Jaipur"
+    ],
+    "raw_text": "DHAIRYA KUMAR JAIN +91 9424734133 | dhairyajain30904@gmail.com ï Dhairya Jain | § DhairyaJain30 Indore, Madhya Pradesh, India PROFESSIONAL SUMMARY Data Science enthusiast and pre-final year B.Tech student with hands-on experience in Python, Machine Learning, and Deep Learning. Skilled in statistical analysis, feature engineering, and predictive modeling. Experienced in building and deploying AI models using Flask and Streamlit. Passionate about solving real-world problems and eager to learn in a dynamic environment. EDUCATION • The LNM Institute Of Information Technology Oct 2022 - Ongoing B.Tech - Computer Science and Engineering Jaipur, Rajasthan • Drashti Public School Apr, 2020 - March,2022 Class 12th Sanawad, Madhya Pradesh ◦Grade: 94.3% • Chaitanya School Apr, 2017 - March,2020 Class 10th GandhiNagar, Gujarat ◦Grade: 93.8% PROJECTS • ICU Days Prediction (Ongoing) Key Skills: ANN, NLP, TensorFlow, Scikit-Learn ◦Working with a PhysioNet_ Medical Dataset to predict ICU stay duration. ◦Preprocessed complex medical data including handling missing values, encoding categorical features, and reducing dimensionality using PCA. ◦Applied TF-IDF Vectorization on textual features to convert them into numerical form for modeling. ◦Utilized a hybrid modeling approach using ANN and Random Forest. ◦Implemented a custom Python-based pipeline to integrate both classification stages into a reusable and structured prediction workflow. • E-Commerce Chatbot: [§] Key Skills: Python, Flask, Rasa AI, REST API,HTML,CSS. ◦Built an AI-powered E-commerce chatbot using RASA for intent recognition and contextual dialogue management. ◦Trained the model on a Kaggle dataset with 8000+ utterances covering 27 intents, and extended it with additional custom intents. ◦Created a Flask backend and connected it to the RASA model usingREST APIs for seamless communication. ◦Designed an interactive frontend using HTML, CSS, and JavaScript for a smooth user experience. SKILLS ◦Programming Languages:C/C++, Python. ◦Web Technologies:HTML, CSS, Flask, Streamlit. ◦Database Systems:MySQL. ◦Data Science:Computer Vision, Transformer, TensorFlow, Scikit-Learn, NLP, Numpy, Pandas, Matplotlib. ◦Relevant Coursework:DSA, OS, OOPS, DBMS, CN. CERTIFICATIONS ◦LinkedIn: Introduction To Data Analytics June 2024 ◦Udemy: Complete Machine Learning Bootcamp Sept 2024 ACHIEVEMENTS/EXTRA-CURRICULAR • Secured 97.5%ile in JEE Mains, placing in the top 2.5% of candidates nationwide. • Conducted a 5-day religious educational camp for children, teaching religious values, managing assessments, and coordinating cultural performances with a team of 4. • Pre-Finalist at Green-Fintech Hackathon, IIT Jodhpur. • Public Speaking"
+}
